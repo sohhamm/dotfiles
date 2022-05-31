@@ -1,0 +1,9 @@
+[user]
+	email = soham.ss1@gmail.com
+	name = Soham Sarkar
+[core]
+	editor = code --wait
+[init]
+    defaultBranch = main 
+[url "git@bitbucket.org:"]
+	insteadOf = https://bitbucket.org/
