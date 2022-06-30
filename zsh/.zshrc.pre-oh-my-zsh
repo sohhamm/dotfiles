@@ -1,0 +1,3 @@
+export PATH="$PATH:/Users/spurge/.npm-global/bin"
+
+code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
